@@ -12,6 +12,12 @@ from openpyxl import load_workbook
 
 ##----------------FUNCIONES-----------------
 
+##---------------RECIVIR OPENAI K-----------
+
+def getOK ():
+    with open("") as tsv:
+        print ('') ##-------------------CAMBIAR AQUI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ##----------------AGREGA DATOS DE RAZON SOCIAL A LA BBDD
 def agregarDatos (data, archivo):
 
